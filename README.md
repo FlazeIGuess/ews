@@ -1,4 +1,3 @@
-
 # EWS: Easy World Spawn - A Minecraft Mod
 
 
@@ -13,6 +12,11 @@ EWS: Easy World Spawn is a Minecraft mod that allows players to easily set and m
 The mod also includes several commands to manage the world spawn. The /worldspawn current command displays the current world spawn location, either the original one or the one set by the player. The /worldspawn original command shows the coordinates of the original world spawn. Finally, the /worldspawn reset command allows players to overwrite the current world spawn and reset it to its original values.
 
 Overall, EWS: Easy World Spawn is a useful mod for Minecraft players who want more control over their world spawn point. It simplifies the process of setting and managing the spawn point, making it a great addition to any Minecraft mod collection.
+## EWS: Easy World Spawn Logo
+
+![EWS: Easy World Spawn](https://i.ibb.co/HTWgGYK/EWS.png)
+
+
 ## Features
 
 - Allows players to easily set and manage their world spawn point!
@@ -46,3 +50,17 @@ In the future, I am planning to add even more features to EWS: Easy World Spawn,
 2. Choose Minecraft and click "Create a Custom Profile" (February 2023). 
 3. Click on the puzzle icon and search for "EWS: Easy World Spawn", click on install
 4. Go back and click on Play!
+
+
+## Screenshots
+
+![1.](https://i.ibb.co/xCsK7Kw/2023-02-23-23-32-21.png)
+
+![2.](https://i.ibb.co/CvxtGwC/2023-02-23-23-34-01.png)
+
+![3.](https://i.ibb.co/Mn7tKB1/2023-02-23-23-32-37.png)
+
+
+## You want to bring your own brain in?
+
+I am always looking for talented individuals to help me make my modding projects even better! Whether you have experience with coding, graphic design, or simply have a passion for gaming and a willingness to learn, there are plenty of ways to get involved. I am committed to fostering a collaborative, supportive community of modders and gamers, and I would love for you to be a part of it. So if you're interested in joining me and contributing your skills and creativity to this exciting project, please don't hesitate to reach out. I can't wait to see what we can accomplish together!
