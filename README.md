@@ -3,7 +3,7 @@
 
 
 
-EWS is a simple Mod to help you, to set the World Spawn in an easy way!
+EWS is a simple Mod to help you, to set the World Spawn in an easy way! - This is a FABRIC Mod! 1.19.2 Version 0.1b
 ## Informations
 
 EWS: Easy World Spawn is a Minecraft mod that allows players to easily set and manage their world spawn point. With the World Spawn block, players can place it anywhere and activate it with a right-click. The coordinates of the new world spawn will be displayed in the chat, and the last activated one will be used as the world spawn. This block is not craftable and can only be obtained with OP rights in creative mode.
@@ -64,3 +64,11 @@ In the future, I am planning to add even more features to EWS: Easy World Spawn,
 ## You want to bring your own brain in?
 
 I am always looking for talented individuals to help me make my modding projects even better! Whether you have experience with coding, graphic design, or simply have a passion for gaming and a willingness to learn, there are plenty of ways to get involved. I am committed to fostering a collaborative, supportive community of modders and gamers, and I would love for you to be a part of it. So if you're interested in joining me and contributing your skills and creativity to this exciting project, please don't hesitate to reach out. I can't wait to see what we can accomplish together!
+
+# Modding API
+
+## Only [Fabric](https://fabricmc.net/) Support
+Please note that EWS: Easy World Spawn currently only works with [Fabric](https://fabricmc.net/). While I am working on a Forge port, this may take some time to complete. Thank you for your understanding!
+
+### Forge Support? 
+Currently, EWS: Easy World Spawn only works with Fabric. However, I am working on a Forge port and hope to make Minecraft Forge support available in the near future. Please note that this will require significant development work, and I am focused on laying the foundation for the project at this time. Rest assured that I am committed to making this mod available to as many Minecraft players as possible and will keep you updated as I make progress on the Forge version. Thank you for your patience and understanding! - Propably Never (I don't hope so!) :(
