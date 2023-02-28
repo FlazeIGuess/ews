@@ -3,13 +3,13 @@
 
 
 
-EWS is a simple Mod to help you, to set the World Spawn in an easy way! - This is a FABRIC Mod! 1.19.2 Version 0.1b
+EWS is a simple Mod to help you, to set the World Spawn in an easy way! - This is a FABRIC Mod! 1.19.2 Version 0.1.1b
 ## Informations
 
 EWS: Easy World Spawn is a Minecraft mod that allows players to easily set and manage their world spawn point. With the World Spawn block, players can place it anywhere and activate it with a right-click. The coordinates of the new world spawn will be displayed in the chat, and the last activated one will be used as the world spawn. This block is not craftable and can only be obtained with OP rights in creative mode.
 
 
-The mod also includes several commands to manage the world spawn. The /worldspawn current command displays the current world spawn location, either the original one or the one set by the player. The /worldspawn original command shows the coordinates of the original world spawn. Finally, the /worldspawn reset command allows players to overwrite the current world spawn and reset it to its original values.
+The mod also includes several commands to manage the world spawn. The /ews current command displays the current world spawn location, either the original one or the one set by the player. The /ews original command shows the coordinates of the original world spawn. Finally, the /ews reset command allows players to overwrite the current world spawn and reset it to its original values.
 
 Overall, EWS: Easy World Spawn is a useful mod for Minecraft players who want more control over their world spawn point. It simplifies the process of setting and managing the spawn point, making it a great addition to any Minecraft mod collection.
 ## EWS: Easy World Spawn Logo
@@ -24,9 +24,9 @@ Overall, EWS: Easy World Spawn is a useful mod for Minecraft players who want mo
 - Coordinates of the new world spawn are displayed in the chat!
 - Last activated World Spawn is used as the new spawn point!
 - World Spawn block is not craftable and can only be obtained with OP rights in creative mode!
-- /worldspawn current command displays the current world spawn location!
-- /worldspawn original command shows the coordinates of the original world spawn!
-- /worldspawn reset command allows players to overwrite the current world spawn and reset it to its original values!
+- /ews current command displays the current world spawn location!
+- /ews original command shows the coordinates of the original world spawn!
+- /ews reset command allows players to overwrite the current world spawn and reset it to its original values!
 
 ### Future
 
@@ -56,7 +56,7 @@ In the future, I am planning to add even more features to EWS: Easy World Spawn,
 
 ![1.](https://i.ibb.co/xCsK7Kw/2023-02-23-23-32-21.png)
 
-![2.](https://i.ibb.co/CvxtGwC/2023-02-23-23-34-01.png)
+![2.](https://i.ibb.co/CvxtGwC/2023-02-23-23-34-01.png) (Outdated, now it's: /ews [keyword])
 
 ![3.](https://i.ibb.co/Mn7tKB1/2023-02-23-23-32-37.png)
 
