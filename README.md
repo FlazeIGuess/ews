@@ -14,7 +14,7 @@ The mod also includes several commands to manage the world spawn. The /ews curre
 Overall, EWS: Easy World Spawn is a useful mod for Minecraft players who want more control over their world spawn point. It simplifies the process of setting and managing the spawn point, making it a great addition to any Minecraft mod collection.
 ## EWS: Easy World Spawn Logo
 
-![EWS: Easy World Spawn](https://i.ibb.co/HTWgGYK/EWS.png)
+![EWS: Easy World Spawn](https://i.ibb.co/5jLwqKv/EWS.png)
 
 
 ## Features
